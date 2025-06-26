@@ -1,0 +1,5 @@
+Red: Estaciones dadas de baja
+Estación: 03065003-Elx
+	
+FECHA	HORA	
+		

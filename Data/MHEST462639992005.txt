@@ -1,0 +1,6 @@
+Red: Red de Vigilancia y Control de la Contaminación Atmosférica
+Estación: 46263999-Zarra EMEP
+	
+FECHA	HORA	SO2	NO	NO2	O3	Veloc.	Direc.	Temp.	H.Rel.	Pres.	R.Sol.
+		µg/m³	µg/m³	µg/m³	µg/m³	m/s	grados	°C	% H.R.	mb	W/m²
+01/01/2006	00	1	0	2	66	13,4	274	6,2	100	919	17
